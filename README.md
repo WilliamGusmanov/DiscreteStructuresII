@@ -1,2 +1,2 @@
 # DiscreteStructuresII
-My solutions to homework assignments in Discrete Structures II
+Implementations of Discrete mathametics topics. 
