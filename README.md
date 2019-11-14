@@ -1,2 +1,2 @@
 # DiscreteStructuresII
-Implementations of Discrete mathametics topics. 
+Implementations of Discrete mathematics topics. 
